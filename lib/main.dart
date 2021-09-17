@@ -4,6 +4,7 @@ import 'package:flutter_trello/widgets/list.dart';
 import './models/list.dart';
 
 void main() {
+  // my awesome app
   runApp(TrelloApp());
 }
 
